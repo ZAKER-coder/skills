@@ -1,0 +1,7 @@
+{
+  "skills": [
+    "./skills/zaker-hot-news",
+    "./skills/zaker-category-news",
+    "./skills/zaker-news-search"
+  ]
+}
